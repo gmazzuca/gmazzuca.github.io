@@ -239,6 +239,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/audios/";
           
         },
+      },{id: "post-the-q-deformed-marchenko-pastur-law",
+        
+          title: "The q-deformed Marchenko-Pastur law",
+        
+        description: "We present our work on the q-deformation of the Marchenko-Pasteur Law",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/q-deformed-MP-law/";
+          
+        },
       },{id: "post-a-post-with-videos",
         
           title: "a post with videos",
