@@ -11,9 +11,9 @@ My colloborator Sung-Soo byurn, Yeng-Wang and I worked together to find the eige
 
 <!-- prettier-ignore-start -->
 
-\[ 
+\begin{equation}
     d\mathbf{P}(\mathbf{x})= \frac{1}{Z_{N}} \prod_{1\leq j<k\leq N}(x_{j}-x_{k})^{2}\prod_{j=1}^{N}w(x_j) \,dx_{j}. 
-\]
+\end{equation}
 
 <!-- prettier-ignore-end -->
 
