@@ -5,8 +5,6 @@ date: 2023-04-24 21:01:00
 description: We present our work on the q-deformation of the Marchenko-Pasteur Law
 tags: q-deformation, orthogonal_polynomials, random-matrix-theory
 categories: research
-giscus_comments: true
-tikzjax: true
 ---
 
 The Marchenko-Pastur law is arguably one of the most famous results in Random Matrix Theory (RMT). It describes the universal limiting spectral distribution of large sample covariance matrices (Wishart matrices). But what happens when we step away from the continuous world and look at "quantum" or discrete deformations of these classical ensembles?
