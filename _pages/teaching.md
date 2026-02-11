@@ -26,6 +26,7 @@ This is an introductory course on complex analysis. We begin by introducing comp
 - **Homework:** 25%
 
 #### Course Material:
+
 - 📂 <a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" download target="_blank">Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_
 
 **Work Sheet**:
@@ -40,6 +41,7 @@ This is an introductory course on complex analysis. We begin by introducing comp
 - 📂 <a href="{{ '/assets/courses/complex/HW2.pdf' | relative_url }}" download target="_blank">Homework 2 (PDF)</a>
 
 **Exams and Midterms**
+
 - 📂 <a href="{{ '/assets/courses/complex/PracticeMidterm1.pdf' | relative_url }}" download target="_blank">Practice Midterm 1 (PDF)</a>
 - 📂 <a href="{{ '/assets/courses/complex/Midterm1.pdf' | relative_url }}" download target="_blank">Midterm 1 (PDF)</a>
 
