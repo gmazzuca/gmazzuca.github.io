@@ -11,7 +11,7 @@ tikzjax: true
 
 The Marchenko-Pastur law is arguably one of the most famous results in Random Matrix Theory (RMT). It describes the universal limiting spectral distribution of large sample covariance matrices (Wishart matrices). But what happens when we step away from the continuous world and look at "quantum" or discrete deformations of these classical ensembles?
 
-In our recent preprint, **"$q$-deformation of the Marchenko-Pastur law"** (joint work with Sung-Soo Byun and Yeong-Gwang Jung), we explore a $q$-analog of the Laguerre Unitary Ensemble (LUE) and derive its limiting distribution.
+In our recent preprint, **"$q$-deformation of the Marchenko-Pastur law"** (joint work with [Sung-Soo Byun](https://sites.google.com/view/sungsoobyun) and [Yeong-Gwang Jung](https://y-gjung.github.io/)), we explore a $q$-analog of the Laguerre Unitary Ensemble (LUE) and derive its limiting distribution.
 
 We found that the $q$-deformation isn't just a minor tweak—it introduces a rich structure featuring a **phase transition** and the emergence of a **saturated region** where the eigenvalue density hits a hard upper bound.
 
@@ -53,29 +53,11 @@ In the paper, we derive this limiting distribution using three distinct but comp
 We computed the spectral moments $m_{N,p} = \mathbb{E}[\sum x_j^p]$ exactly. This involved using the **Flajolet-Viennot theory**, which relates moments of orthogonal polynomials to weighted lattice paths (Motzkin paths).
 For the $q$-case, we introduced a specific statistic on **bipartite matchings** (counting "crossings") to handle the $q$-weights.
 
-{% raw %}
-<script type="text/tikz">
-\begin{tikzpicture}
-        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,0) circle (2pt);} 
-        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,3) circle (2pt);} 
-        \fill[black] (0,3) circle (2pt);
-        \fill[black] (2,3) circle (2pt);
-        \fill[black] (16,1.5) circle (2pt);
-        \draw (6,0) -- (12, 3);
-        \draw (10,0) -- (0, 3);
-        \draw (12,0) -- (6, 3);
-        \draw (8,0) -- (8, 3);
-        \draw[dashed] (2,3) -- (16,1.5);
-        \draw[dashed] (4,3) -- (16,1.5);
-        \draw[dashed] (10,3) -- (16,1.5);
-        \draw[dashed] (14,3) -- (16,1.5);
-        \draw[dashed] (4,0) -- (16,1.5);
-        \draw[dashed] (14,0) -- (16,1.5);
-        \node at (16,1) {$\infty$};
-    \end{tikzpicture}
-</script>
-{% endraw %}
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bipartite.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     An example of bipartite matching
 </div>
