@@ -93,8 +93,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Mathematics # blog_name will be displayed in your blog page
-blog_description: A blog about mathematics and related topics. # blog_description will be displayed in your blog page
+blog_name: Math and beyond # blog_name will be displayed in your blog page
+blog_description: A blog about mathematics, both research oriented and not! # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
