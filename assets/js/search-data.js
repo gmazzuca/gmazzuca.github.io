@@ -70,7 +70,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-out-q-deformation-of-the-marchenko-pastur-law-joint-with-sung-soo-byun-and-yeong-gwang-jung-is-now-available-on-arxiv-we-investigate-the-limiting-spectral-distribution-for-the-q-laguerre-ensemble-read-the-preprint-here",
           title: 'New preprint out! q-deformation of the Marchenko-Pastur law (joint with Sung-Soo Byun and...',
           description: "",
-          section: "News",},{id: "news-new-preprint-out-painlevé-universality-classes-for-the-maximal-amplitude-solution-of-the-focusing-nonlinear-schrödinger-equation-with-randomness-with-a-gkogkou-and-k-mclaughlin-is-not-on-the-arxiv-we-investigate-the-universality-classes-of-extremal-solution-of-the-focusing-nls-equation-read-the-preprint-here",
+          section: "News",},{id: "news-new-preprint-out-painlevé-universality-classes-for-the-maximal-amplitude-solution-of-the-focusing-nonlinear-schrödinger-equation-with-randomness-with-a-gkogkou-and-k-mclaughlin-is-now-on-the-arxiv-we-investigate-the-universality-classes-of-extremal-solution-of-the-focusing-nls-equation-read-the-preprint-here",
           title: 'New Preprint out: Painlevé Universality classes for the maximal amplitude solution of the...',
           description: "",
           section: "News",},{id: "projects-project-1",
