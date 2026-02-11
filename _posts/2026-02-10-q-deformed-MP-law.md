@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The q-deformed Marchenko-Pastur law
-date: 2023-04-24 21:01:00
+date: 2026-02-11 21:01:00
 description: We present our work on the q-deformation of the Marchenko-Pasteur Law
 tags: q-deformation, orthogonal_polynomials, random-matrix-theory
 categories: research
