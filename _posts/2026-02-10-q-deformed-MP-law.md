@@ -53,10 +53,11 @@ In the paper, we derive this limiting distribution using three distinct but comp
 We computed the spectral moments $m_{N,p} = \mathbb{E}[\sum x_j^p]$ exactly. This involved using the **Flajolet-Viennot theory**, which relates moments of orthogonal polynomials to weighted lattice paths (Motzkin paths).
 For the $q$-case, we introduced a specific statistic on **bipartite matchings** (counting "crossings") to handle the $q$-weights.
 
+{% raw %}
 <script type="text/tikz">
 \begin{tikzpicture}
-        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,0) circle (2pt);}
-        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,3) circle (2pt);}
+        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,0) circle (2pt);} 
+        \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,3) circle (2pt);} 
         \fill[black] (0,3) circle (2pt);
         \fill[black] (2,3) circle (2pt);
         \fill[black] (16,1.5) circle (2pt);
@@ -73,6 +74,8 @@ For the $q$-case, we introduced a specific statistic on **bipartite matchings** 
         \node at (16,1) {$\infty$};
     \end{tikzpicture}
 </script>
+{% endraw %}
+
 <div class="caption">
     An example of bipartite matching
 </div>
