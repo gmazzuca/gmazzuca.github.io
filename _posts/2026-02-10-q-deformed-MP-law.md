@@ -22,7 +22,7 @@ $$\{1, q, q^2, \dots \}$$
 where $$q \in (0,1)$$ is the deformation parameter.
 
 To see nontrivial behavior as the system size $N \to \infty$, we work in a double scaling regime where $q$ approaches 1 at a specific rate:
-$$q = e^{-\lambda/N}, \qquad \lambda \ge 0.$$
+$$q = e^{-\lambda/N},\, \lambda \ge 0.$$
 
 As $\lambda \to 0$, we recover the classical Marchenko-Pastur law. However, for $\lambda > 0$, the discrete nature of the lattice imposes a structural constraint on the particle density.
 
@@ -54,7 +54,7 @@ We computed the spectral moments $m_{N,p} = \mathbb{E}[\sum x_j^p]$ exactly. Thi
 For the $q$-case, we introduced a specific statistic on **bipartite matchings** (counting "crossings") to handle the $q$-weights.
 
 <script type="text/tikz">
-\begin{tikzpicture}[scale=0.7]
+\begin{tikzpicture}
         \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,0) circle (2pt);}
         \foreach \i in {1,2,...,6}{\fill[black] (2*\i+2,3) circle (2pt);}
         \fill[black] (0,3) circle (2pt);
