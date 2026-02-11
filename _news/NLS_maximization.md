@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-New Preprint out: **Painlevé Universality classes for the maximal amplitude solution of the Focusing Nonlinear Schrödinger Equation with randomness** (with A. Gkogkou and K. McLaughlin) is not on the Arxiv!
+New Preprint out: **Painlevé Universality classes for the maximal amplitude solution of the Focusing Nonlinear Schrödinger Equation with randomness** (with A. Gkogkou and K. McLaughlin) is now on the Arxiv!
 
 We investigate the universality classes of extremal solution of the focusing NLS equation.
 
