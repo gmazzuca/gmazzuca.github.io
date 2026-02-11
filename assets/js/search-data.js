@@ -48,17 +48,6 @@ ninja.data = [{
             window.open("https://www.3blue1brown.com/", "_blank");
           
         },
-      },{id: "post-the-q-deformed-marchenko-pastur-law",
-        
-          title: "The q-deformed Marchenko-Pastur law",
-        
-        description: "We present our work on the q-deformation of the Marchenko-Pasteur Law",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/q-deformed-MP-law/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
