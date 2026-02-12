@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-the-q-deformed-marchenko-pastur-law",
+        },{id: "post-nls-max-universality",
+        
+          title: "Nls Max Universality",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NLS-max-universality/";
+          
+        },
+      },{id: "post-the-q-deformed-marchenko-pastur-law",
         
           title: "The q-deformed Marchenko-Pastur law",
         
