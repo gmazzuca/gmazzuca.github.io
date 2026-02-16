@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-16'
 papers:
   xfOSlpsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -15,7 +15,7 @@ papers:
     year: '2021'
   xfOSlpsAAAAJ:LkGwnXOMwfcC:
     citations: 0
-    title: The formation of a soliton gas condensate for the focusing Nonlinear Schr\" odinger equation
+    title: "The formation of a soliton gas condensate for the focusing nonlinear Schr\xF6dinger equation"
     year: '2025'
   xfOSlpsAAAAJ:Se3iqnhoufwC:
     citations: 3
@@ -38,7 +38,7 @@ papers:
     title: 'CLT for  ensembles at high-temperature, and for integrable systems: a transfer operator approach'
     year: '2024'
   xfOSlpsAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 13
     title: Equilibrium Spacetime Correlations of the Toda Lattice on the Hydrodynamic Scale
     year: '2023'
   xfOSlpsAAAAJ:_FxGoFyzp5QC:
@@ -46,7 +46,7 @@ papers:
     title: 'Generalized Hydrodynamics for the Volterra lattice: ballistic and nonballistic behavior of correlation functions'
     year: '2024'
   xfOSlpsAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 20
     title: Adiabatic invariants for the FPUT and Toda chain in the thermodynamic limit
     year: '2020'
   xfOSlpsAAAAJ:hqOjcs7Dif8C:
