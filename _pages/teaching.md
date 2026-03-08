@@ -30,26 +30,46 @@ This is an introductory course on complex analysis. We begin by introducing comp
 <details>
   <summary><strong>Course Material (click to expand)</strong></summary>
 
-  - **Lecture Notes:** <a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_
+  <ul>
+    <li>
+      <strong>Lecture Notes:</strong>
+      <ul>
+        <li><a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_</li>
+      </ul>
+    </li>
 
-  - **Work Sheet:**
-    - <a href="{{ '/assets/courses/complex/WorkSheet1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 1 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/WorkSheet2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 2 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/WorkSheet3.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 3 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/WorkSheet4.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 4 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/WorkSheet5.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 5 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/WorkSheet6.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 6 (PDF)</a>
+    <li>
+      <strong>Work Sheet:</strong>
+      <ul>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 1 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 2 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet3.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 3 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet4.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 4 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet5.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 5 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet6.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 6 (PDF)</a></li>
+      </ul>
+    </li>
 
-  - **Homework:**
-    - <a href="{{ '/assets/courses/complex/HW1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 1 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/HW2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 2 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/HW23.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 3 (PDF)</a>
+    <li>
+      <strong>Homework:</strong>
+      <ul>
+        <li><a href="{{ '/assets/courses/complex/HW1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 1 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/HW2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 2 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/HW23.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 3 (PDF)</a></li>
+      </ul>
+    </li>
 
-  - **Exams and Midterms:**
-    - <a href="{{ '/assets/courses/complex/PracticeMidterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 1 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/PracticeMidterm1_solution.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 1 solution (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/Midterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 1 (PDF)</a>
-    - <a href="{{ '/assets/courses/complex/SolMidterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Solution Midterm 1 (PDF)</a>
+    <li>
+      <strong>Exams and Midterms:</strong>
+      <ul>
+        <li><a href="{{ '/assets/courses/complex/PracticeMidterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 1 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/PracticeMidterm1_solution.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 1 solution (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/Midterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 1 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/SolMidterm1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Solution Midterm 1 (PDF)</a></li>
+      </ul>
+    </li>
+
+  </ul>
 
 </details>
 
