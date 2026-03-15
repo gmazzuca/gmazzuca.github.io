@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-the-q-deformed-marchenko-pastur-law",
+        },{id: "post-painleve-39-universality-classes-for-the-nls-equations",
+        
+          title: "Painleve&#39; Universality Classes for the NLS equations",
+        
+        description: "We present our work on Painleve&#39; Univerality classes of the NLS equation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NLS-max-universality/";
+          
+        },
+      },{id: "post-the-q-deformed-marchenko-pastur-law",
         
           title: "The q-deformed Marchenko-Pastur law",
         
