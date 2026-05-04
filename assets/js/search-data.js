@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-painleve-39-universality-classes-for-the-nls-equations",
+        },{id: "post-simulating-decision-making-with-the-linear-ballistic-accumulator",
+        
+          title: "Simulating Decision-Making with the Linear Ballistic Accumulator",
+        
+        description: "An overview of an undergraduate research project exploring and replicating the LBA model in Python.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/LBA_model/";
+          
+        },
+      },{id: "post-painleve-39-universality-classes-for-the-nls-equations",
         
           title: "Painleve&#39; Universality Classes for the NLS equations",
         
