@@ -25,7 +25,6 @@ This is an introductory course on complex analysis. We begin by introducing comp
 - **Final Exam:** 30%
 - **Homework:** 25%
 
-#### Course Material:
 
 <details>
   <summary><strong>Course Material (click to expand)</strong></summary>
@@ -48,6 +47,9 @@ This is an introductory course on complex analysis. We begin by introducing comp
         <li><a href="{{ '/assets/courses/complex/WorkSheet4.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 4 (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/WorkSheet5.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 5 (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/WorkSheet6.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 6 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet7.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 7 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet8.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 8 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/WorkSheet9_sol.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Work Sheets 9 (PDF)</a></li>
       </ul>
     </li>
 
@@ -57,6 +59,7 @@ This is an introductory course on complex analysis. We begin by introducing comp
         <li><a href="{{ '/assets/courses/complex/HW1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 1 (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/HW2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 2 (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/HW3.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 3 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/HW4.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 4 (PDF)</a></li>
       </ul>
     </li>
 
@@ -70,6 +73,9 @@ This is an introductory course on complex analysis. We begin by introducing comp
         <li><a href="{{ '/assets/courses/complex/PracticeMidterm2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 2 (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/PracticeMidterm2_solution.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Practice Midterm 2 solution (PDF)</a></li>
         <li><a href="{{ '/assets/courses/complex/Midterm2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 2 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/Midterm3.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 3 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/Midterm3_retake.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 3 - Retake (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/complex/Midterm3_retake2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Midterm 3 - Retake 2 (PDF)</a></li>
       </ul>
     </li>
 
