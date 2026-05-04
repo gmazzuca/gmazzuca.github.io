@@ -25,7 +25,6 @@ This is an introductory course on complex analysis. We begin by introducing comp
 - **Final Exam:** 30%
 - **Homework:** 25%
 
-
 <details>
   <summary><strong>Course Material (click to expand)</strong></summary>
 
