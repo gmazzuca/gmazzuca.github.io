@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-06-22'
 papers:
   xfOSlpsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Generalized Gibbs ensemble of the Ablowitz-Ladik lattice, Circular -ensemble and double confluent Heun equation
     year: '2021'
   xfOSlpsAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: "The formation of a soliton gas condensate for the focusing nonlinear Schr\xF6dinger equation"
     year: '2025'
   xfOSlpsAAAAJ:Se3iqnhoufwC:
@@ -22,7 +22,7 @@ papers:
     title: 'Discrete and Continuous Muttalib--Borodin process: Large deviations and Riemann--Hilbert analysis'
     year: '2025'
   xfOSlpsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 15
+    citations: 17
     title: Large deviations for Ablowitz-Ladik lattice, and the Schur flow
     year: '2023'
   xfOSlpsAAAAJ:UebtZRa9Y70C:
@@ -34,11 +34,11 @@ papers:
     title: Discrete integrable systems and random Lax matrices
     year: '2023'
   xfOSlpsAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 12
     title: 'CLT for  ensembles at high-temperature, and for integrable systems: a transfer operator approach'
     year: '2024'
   xfOSlpsAAAAJ:YsMSGLbcyi4C:
-    citations: 13
+    citations: 15
     title: Equilibrium Spacetime Correlations of the Toda Lattice on the Hydrodynamic Scale
     year: '2023'
   xfOSlpsAAAAJ:_FxGoFyzp5QC:
@@ -46,11 +46,11 @@ papers:
     title: 'Generalized Hydrodynamics for the Volterra lattice: ballistic and nonballistic behavior of correlation functions'
     year: '2024'
   xfOSlpsAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 23
     title: Adiabatic invariants for the FPUT and Toda chain in the thermodynamic limit
     year: '2020'
   xfOSlpsAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 2
     title: -deformation of the Marchenko-Pastur law
     year: '2026'
   xfOSlpsAAAAJ:qjMakFHDy7sC:
@@ -62,7 +62,7 @@ papers:
     title: Generalized Hydrodynamics for the Volterra lattice
     year: Unknown Year
   xfOSlpsAAAAJ:u-x6o8ySG0sC:
-    citations: 17
+    citations: 18
     title: On the mean density of states of some matrices related to the beta ensembles and an application to the Toda lattice
     year: '2022'
   xfOSlpsAAAAJ:zYLM7Y9cAGgC:
