@@ -8,9 +8,23 @@ nav_order: 6
 calendar: true
 ---
 
-In this page you can access all the material for the courses that I tought in the past few years. In the upcoming event, you can see my office hours and the course schedule.
+In this page you can access all the material for the courses that I taught in the past few years. In the upcoming event, you can see my office hours and the course schedule.
 
 {% include calendar.liquid calendar_id='30a3e3e7241d02c62e43f1081dc0c95fbadfa98ded349fed11ff08bf089b93b5@group.calendar.google.com' timezone='GMT-06:00 Central time - Chicago' %}
+
+### **Fall 2026: Intro to Applied Math**
+
+**Course Code:** MATH 2240
+_Tulane University_
+
+This course is an introduction to the techniques of applied mathematics. We focus on several differential equation models that apply to a variety of applications in the natural sciences. Numerical and graphical techniques for finding both quantitative and qualitative information about solutions will be discussed and implemented on the computer. No programming experience is assumed.
+
+**Grading Scheme:**
+
+- **Midterm Exams:** 40%
+- **Final Exam:** 35%
+- **Homework:** 15%
+- **Quizzes:** 10%
 
 ### **Spring 2026: Complex Analysis**
 
