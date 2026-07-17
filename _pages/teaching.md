@@ -26,6 +26,8 @@ This course is an introduction to the techniques of applied mathematics. We focu
 - **Homework:** 15%
 - **Quizzes:** 10%
 
+---
+
 ### **Spring 2026: Complex Analysis**
 
 **Course Code:** MATH 4300
