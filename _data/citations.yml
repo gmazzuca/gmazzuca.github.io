@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   xfOSlpsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -30,11 +30,11 @@ papers:
     title: 'Soliton synchronization with randomness: rogue waves and universality'
     year: '2025'
   xfOSlpsAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: Discrete integrable systems and random Lax matrices
     year: '2023'
   xfOSlpsAAAAJ:WF5omc3nYNoC:
-    citations: 12
+    citations: 13
     title: 'CLT for  ensembles at high-temperature, and for integrable systems: a transfer operator approach'
     year: '2024'
   xfOSlpsAAAAJ:YsMSGLbcyi4C:
@@ -62,7 +62,7 @@ papers:
     title: Generalized Hydrodynamics for the Volterra lattice
     year: Unknown Year
   xfOSlpsAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: On the mean density of states of some matrices related to the beta ensembles and an application to the Toda lattice
     year: '2022'
   xfOSlpsAAAAJ:zYLM7Y9cAGgC:
