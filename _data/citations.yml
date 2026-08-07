@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-07'
 papers:
   xfOSlpsAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Painlev\'e Universality classes for the maximal amplitude solution of the Focusing Nonlinear Schr\"{o} dinger Equation with randomness
     year: '2026'
   xfOSlpsAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 6
     title: Correlation functions for a chain of short range oscillators
     year: '2021'
   xfOSlpsAAAAJ:IjCSPb-OGe4C:
@@ -17,12 +17,16 @@ papers:
     citations: 2
     title: "The formation of a soliton gas condensate for the focusing nonlinear Schr\xF6dinger equation"
     year: '2025'
+  xfOSlpsAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: 'Discrete and Continuous Muttalib--Borodin Process: Large Deviations and Limit Shape Analysis'
+    year: '2025'
   xfOSlpsAAAAJ:Se3iqnhoufwC:
     citations: 3
-    title: 'Discrete and Continuous Muttalib--Borodin process: Large deviations and Riemann--Hilbert analysis'
-    year: '2025'
+    title: 'Discrete and Continuous Muttalib-Borodin process: Large deviations and Riemann-Hilbert analysis'
+    year: '2026'
   xfOSlpsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 16
     title: Large deviations for Ablowitz-Ladik lattice, and the Schur flow
     year: '2023'
   xfOSlpsAAAAJ:UebtZRa9Y70C:
@@ -38,7 +42,7 @@ papers:
     title: 'CLT for  ensembles at high-temperature, and for integrable systems: a transfer operator approach'
     year: '2024'
   xfOSlpsAAAAJ:YsMSGLbcyi4C:
-    citations: 15
+    citations: 14
     title: Equilibrium Spacetime Correlations of the Toda Lattice on the Hydrodynamic Scale
     year: '2023'
   xfOSlpsAAAAJ:_FxGoFyzp5QC:
@@ -50,11 +54,11 @@ papers:
     title: Adiabatic invariants for the FPUT and Toda chain in the thermodynamic limit
     year: '2020'
   xfOSlpsAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 2
     title: -deformation of the Marchenko-Pastur law
     year: '2026'
   xfOSlpsAAAAJ:qjMakFHDy7sC:
-    citations: 28
+    citations: 27
     title: "The classical \u03B2-ensembles with \u03B2 proportional to 1/N: from loop equations to Dyson\u2019s disordered chain"
     year: '2021'
   xfOSlpsAAAAJ:roLk4NBRz8UC:
@@ -62,7 +66,7 @@ papers:
     title: Generalized Hydrodynamics for the Volterra lattice
     year: Unknown Year
   xfOSlpsAAAAJ:u-x6o8ySG0sC:
-    citations: 19
+    citations: 20
     title: On the mean density of states of some matrices related to the beta ensembles and an application to the Toda lattice
     year: '2022'
   xfOSlpsAAAAJ:zYLM7Y9cAGgC:
