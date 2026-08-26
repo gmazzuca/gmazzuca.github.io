@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-integrability-and-beyond",
+          title: "Integrability and Beyond",
+          description: "This is the official webpage for the seminar Integrability and Beyond, organized by the research group of Kenneth D. T-R. McLaughlin from the mathematics department of Tulane University. The seminar is focused on the study of integrable systems, their applications, and related topics in mathematics and physics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/IntegrabilityandBeyond/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
