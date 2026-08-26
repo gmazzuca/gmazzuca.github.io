@@ -3,7 +3,7 @@ layout: page
 title: Integrability and Beyond
 permalink: /IntegrabilityandBeyond/
 description: This is the official webpage for the seminar Integrability and Beyond, organized by the research group of Kenneth D. T-R. McLaughlin from the mathematics department of Tulane University. The seminar is focused on the study of integrable systems, their applications, and related topics in mathematics and physics.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
