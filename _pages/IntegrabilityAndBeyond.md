@@ -16,3 +16,4 @@ _The seminar is held every Tuesday at 5:00 PM in Richardson Building room 201_
 In this series of lecture, we focus on the inverse scattering transform (IST) method for solving the Korteweg-de Vries (KdV) equation, a fundamental nonlinear partial differential equation that describes the evolution of shallow water waves. We will explore the mathematical foundations of IST, including the Lax pair formulation, the scattering problem, and the reconstruction of solutions from scattering data. We will follow the lecture notes by [Prof. Tamara Grava](https://people.sissa.it/~grava/Integrable_KdV-2024.pdf).
 
 - _Lecture 1_: Traveling wave solution to the KdV equation; [Video](https://youtu.be/UfhUMk1SBXg)
+- _Lecture 2_: Conserved Quantities and the Lax pais; [Video](https://youtu.be/8iwxFfs1HaE)
