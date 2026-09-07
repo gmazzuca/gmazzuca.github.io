@@ -26,6 +26,20 @@ This course is an introduction to the techniques of applied mathematics. We focu
 - **Homework:** 15%
 - **Quizzes:** 10%
 
+<details>
+  <summary><strong>Course Material (click to expand)</strong></summary>
+
+  <ul>
+    <li>
+      <strong>Homework:</strong>
+      <ul>
+        <li><a href="{{ '/assets/courses/IntroAppliedMath/HW1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 1 (PDF)</a></li>
+        <li><a href="{{ '/assets/courses/IntroAppliedMath/HW2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Homework 2 (PDF)</a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
 ---
 
 ### **Spring 2026: Complex Analysis**
