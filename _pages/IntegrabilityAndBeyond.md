@@ -8,7 +8,6 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-
 _The seminar is held every Tuesday at 5:00 PM in Richardson Building room 201_
 
 ## Inverse scattering transform for the Korteweg-de Vries equation
@@ -17,3 +16,5 @@ In this series of lecture, we focus on the inverse scattering transform (IST) me
 
 - _Lecture 1_: Traveling wave solution to the KdV equation; [Video](https://youtu.be/UfhUMk1SBXg)
 - _Lecture 2_: Conserved Quantities and the Lax pais; [Video](https://youtu.be/8iwxFfs1HaE)
+- Lecture 3: Conserved Quantities and the linear KdV equation; [Video](https://youtu.be/zsKE9AZQ-B8)
+- Lecture 4: Scattering Theory Part 1; [Video](https://youtu.be/XSqnPx80cbA)
