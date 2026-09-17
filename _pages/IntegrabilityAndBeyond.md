@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
 _The seminar is held every Tuesday at 5:00 PM in Richardson Building room 201_
 
 ## Inverse scattering transform for the Korteweg-de Vries equation
