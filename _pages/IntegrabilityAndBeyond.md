@@ -19,4 +19,4 @@ In this series of lecture, we focus on the inverse scattering transform (IST) me
 * _Lecture 2_: Conserved Quantities and the Lax pais; [Video](https://youtu.be/8iwxFfs1HaE)
 * _Lecture 3_: Conserved Quantities and the linear KdV equation; [Video](https://youtu.be/zsKE9AZQ-B8)
 * _Lecture 4_: Scattering Theory Part 1; [Video](https://youtu.be/XSqnPx80cbA)
-* _Lecture 5_: Scattering Theory Part 1; [Video](https://youtu.be/3CFnHNrFE1g)
+* _Lecture 5_: Scattering Theory Part 2; [Video](https://youtu.be/3CFnHNrFE1g)
