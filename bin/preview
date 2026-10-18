@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$repo_root"
+
+preview_options=(
+  serve
+  --config _config.yml,_config.preview.yml
+  --watch
+  --livereload
+  --host 127.0.0.1
+  --port 4000
+)
+
+# Use the ignored local bundle when it has been set up on this Mac.
+local_bundle="$repo_root/vendor/preview-bundle"
+local_gems="$repo_root/vendor/preview-gems"
+bundler_entry="$local_gems/gems/bundler-4.0.4/exe/bundle"
+portable_ruby=/opt/homebrew/Library/Homebrew/vendor/portable-ruby/current/bin/ruby
+
+if [[ -d "$local_bundle" && -f "$bundler_entry" && -x "$portable_ruby" ]]; then
+  export GEM_HOME="$local_gems"
+  export GEM_PATH="$local_gems"
+  export GEM_SPEC_CACHE="$repo_root/vendor/preview-gem-cache"
+  export BUNDLE_PATH="$local_bundle"
+  export BUNDLE_USER_HOME="$repo_root/vendor/preview-bundle-home"
+  export PATH="$(dirname "$portable_ruby"):$PATH"
+  export JEKYLL_ENV=development
+  exec "$portable_ruby" "$bundler_entry" exec jekyll "${preview_options[@]}"
+fi
+
+if command -v docker >/dev/null 2>&1; then
+  echo "Open http://127.0.0.1:8080/undergraduate-research/ once Docker starts."
+  exec docker compose up
+fi
+
+if command -v bundle >/dev/null 2>&1; then
+  export JEKYLL_ENV=development
+  exec bundle exec jekyll "${preview_options[@]}"
+fi
+
+echo "Install the repository's Ruby dependencies or Docker, then run bin/preview again." >&2
+exit 1

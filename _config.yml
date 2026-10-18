@@ -199,6 +199,7 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - manim_undergraduate/
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
