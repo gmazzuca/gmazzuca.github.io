@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/IntegrabilityandBeyond/";
           },
+        },{id: "nav-undergraduate-research",
+          title: "undergraduate research",
+          description: "Completed work and possible projects in mathematical modeling and integrable systems.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/undergraduate-research/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
