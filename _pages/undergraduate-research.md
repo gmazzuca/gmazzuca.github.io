@@ -21,7 +21,7 @@ _styles: >
 
   <section class="research-project" aria-labelledby="lba-heading">
     <div class="row align-items-start">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 id="lba-heading">Completed project: decisions with the LBA model</h2>
         <p>
           With Haley Daniel, we studied the linear ballistic accumulator (LBA) model of choice and response time. Independent accumulators start with random evidence, rise at randomly chosen but constant speeds, and race to a threshold. Haley derived response-time distributions, implemented the model in Python, and compared simulations with brightness-discrimination data under speed and accuracy instructions. <a href="{% post_url 2026-05-04-LBA_model %}">Read the project post</a> for the derivation and results.
@@ -32,7 +32,7 @@ _styles: >
           <li><a href="https://doi.org/10.1111/1467-9280.00067">Ratcliff and Rouder (1998), “Modeling response times for two-choice decisions”</a> — the experimental context and a diffusion-model comparison.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-2 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_lba.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Two evidence accumulators race toward a decision threshold" caption="The first accumulator to reach the threshold determines the choice." %}
       </div>
     </div>
@@ -42,7 +42,7 @@ _styles: >
 
   <section class="research-project" aria-labelledby="toda-heading">
     <div class="row align-items-start">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 id="toda-heading">Proposed project: Toda invariants in the FPUT chain</h2>
         <p>
           The Toda lattice is integrable; the nearby Fermi–Pasta–Ulam–Tsingou (FPUT) chain generally is not. Build both periodic chains with matching low-energy initial data, use a symplectic integrator, and calculate the first few Toda invariants from the Lax matrix along each trajectory. Compare their nearly constant values in Toda with their slow drift in FPUT. Repeat across energies and chain lengths to measure when the adiabatic approximation breaks down. The numerical goal is evidence for slow variation, with the time scale and assumptions guided by the theorem below.
@@ -53,7 +53,7 @@ _styles: >
           <li><a href="https://doi.org/10.1103/PhysRevE.99.022146">Goldfriend and Kurchan (2019), “Equilibration of Quasi-Integrable Systems”</a> — numerical evidence of slow motion through Toda-invariant space.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-2 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_toda_fput.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Schematic comparison of a conserved Toda quantity and a slowly changing FPUT quantity" caption="Schematic: a Toda invariant stays fixed while its FPUT counterpart drifts slowly." %}
       </div>
     </div>
@@ -63,7 +63,7 @@ _styles: >
 
   <section class="research-project" aria-labelledby="covid-heading">
     <div class="row align-items-start">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 id="covid-heading">Proposed project: a patch model for COVID-19 spread</h2>
         <p>
           Divide a region into a few connected patches, each with susceptible, exposed, infectious, and recovered groups. Let a travel matrix move people between patches and let local contact rates control transmission. Implement a small SEIR model, check that population is conserved, and explore how travel restrictions or different contact rates change the timing and size of outbreaks. Start with synthetic data so that the role of each assumption is visible; fitting real data would require careful attention to reporting bias and changing behavior.
@@ -74,7 +74,7 @@ _styles: >
           <li><a href="https://doi.org/10.1038/s41586-020-2923-3">Chang et al. (2021), “Mobility network models of COVID-19 explain inequities and inform reopening”</a> — an SEIR model driven by mobility networks.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-2 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_covid_patches.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Illustration of infections moving between three connected population patches" caption="Travel links connect local SEIR dynamics across patches." %}
       </div>
     </div>
@@ -84,7 +84,7 @@ _styles: >
 
   <section class="research-project" aria-labelledby="kdv-heading">
     <div class="row align-items-start">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 id="kdv-heading">Proposed project: the scattering transform for KdV</h2>
         <p>
           The Korteweg–de Vries (KdV) equation describes nonlinear dispersive waves. Its inverse scattering transform converts an initial wave profile into scattering data for an associated Schrödinger operator; the data evolve simply, then reconstruct the wave. Begin with a single soliton, compute its bound-state eigenvalue, and verify that the reconstructed soliton travels at the predicted speed. A second stage could compare a two-soliton solution before and after its interaction and measure the phase shift.
@@ -97,7 +97,7 @@ _styles: >
           <li><a href="https://doi.org/10.1002/cpa.3160320202">Deift and Trubowitz (1979), “Inverse scattering on the line”</a> — Deift and Trubowitz's foundational treatment of one-dimensional scattering.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-2 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_kdv_scattering.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="A KdV soliton travels while its scattering eigenvalue remains fixed" caption="A soliton moves, while its associated spectral value remains fixed." %}
       </div>
     </div>
