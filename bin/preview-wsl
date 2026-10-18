@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$repo_root"
+
+export BUNDLE_PATH="$repo_root/vendor/preview-bundle-wsl"
+export JEKYLL_ENV=development
+
+local_node="$repo_root/vendor/preview-node/node-v24.22.0-linux-x64/bin"
+if [[ -x "$local_node/node" ]]; then
+  export PATH="$local_node:$PATH"
+fi
+if ! command -v node >/dev/null 2>&1; then
+  echo 'Node.js is required by the site JavaScript plugin. Install it in WSL, then run the preview again.' >&2
+  exit 1
+fi
+
+if ! bundle check; then
+  bundle install
+fi
+
+echo 'Preview: http://127.0.0.1:4000/'
+echo 'Press Ctrl+C to stop the preview.'
+exec bundle exec jekyll serve \
+  --config _config.yml,_config.preview.yml \
+  --watch --livereload --host 0.0.0.0 --port 4000

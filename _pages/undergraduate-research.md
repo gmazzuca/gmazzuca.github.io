@@ -32,7 +32,7 @@ _styles: >
           <li><a href="https://doi.org/10.1111/1467-9280.00067">Ratcliff and Rouder (1998), “Modeling response times for two-choice decisions”</a> — the experimental context and a diffusion-model comparison.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-3 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_lba.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Two evidence accumulators race toward a decision threshold" caption="The first accumulator to reach the threshold determines the choice." %}
       </div>
     </div>
@@ -53,7 +53,7 @@ _styles: >
           <li><a href="https://doi.org/10.1103/PhysRevE.99.022146">Goldfriend and Kurchan (2019), “Equilibration of Quasi-Integrable Systems”</a> — numerical evidence of slow motion through Toda-invariant space.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-3 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_toda_fput.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Schematic comparison of a conserved Toda quantity and a slowly changing FPUT quantity" caption="Schematic: a Toda invariant stays fixed while its FPUT counterpart drifts slowly." %}
       </div>
     </div>
@@ -74,7 +74,7 @@ _styles: >
           <li><a href="https://doi.org/10.1038/s41586-020-2923-3">Chang et al. (2021), “Mobility network models of COVID-19 explain inequities and inform reopening”</a> — an SEIR model driven by mobility networks.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-3 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_covid_patches.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="Illustration of infections moving between three connected population patches" caption="Travel links connect local SEIR dynamics across patches." %}
       </div>
     </div>
@@ -97,7 +97,7 @@ _styles: >
           <li><a href="https://doi.org/10.1002/cpa.3160320202">Deift and Trubowitz (1979), “Inverse scattering on the line”</a> — Deift and Trubowitz's foundational treatment of one-dimensional scattering.</li>
         </ul>
       </div>
-      <div class="col-md-4 mt-3 mt-md-0">
+      <div class="col-md-5 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/undergrad_kdv_scattering.mp4" class="img-fluid" autoplay=true playsinline=true controls=true loop=true muted=true cache_bust=true title="A KdV soliton travels while its scattering eigenvalue remains fixed" caption="A soliton moves, while its associated spectral value remains fixed." %}
       </div>
     </div>

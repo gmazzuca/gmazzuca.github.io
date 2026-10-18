@@ -1,5 +1,7 @@
 # al-folio
 
+For this site's local Jekyll preview, see [PREVIEW.md](PREVIEW.md).
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)

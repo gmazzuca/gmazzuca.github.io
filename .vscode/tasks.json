@@ -5,14 +5,14 @@
       "label": "Preview al-folio site",
       "type": "shell",
       "command": "${workspaceFolder}/bin/preview",
+      "windows": {
+        "command": "powershell.exe",
+        "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}\\bin\\preview.ps1"]
+      },
       "isBackground": true,
       "problemMatcher": [],
-      "runOptions": {
-        "runOn": "folderOpen",
-        "instanceLimit": 1
-      },
       "presentation": {
-        "reveal": "silent",
+        "reveal": "always",
         "panel": "dedicated"
       }
     }
