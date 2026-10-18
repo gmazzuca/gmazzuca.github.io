@@ -16,7 +16,7 @@ _styles: >
 
 <div class="undergraduate-research">
   <p>
-    Undergraduate research is a chance to turn a mathematical question into a working model, a computation, and a clear explanation. The first project below is completed; the other three are proposed directions. Each video is a short conceptual illustration of the idea.
+    In this page you can find some of the old Undergraduate research project that I have supervised. Furthermore, there is a list of proposed projects with some suggested readings, please send me and email if you are interested in working on any of these and/or want some extra details.
   </p>
 
   <section class="research-project" aria-labelledby="lba-heading">

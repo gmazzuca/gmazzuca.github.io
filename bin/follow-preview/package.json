@@ -1,0 +1,37 @@
+{
+  "name": "al-folio-follow-preview",
+  "displayName": "al-folio Follow Preview",
+  "description": "Keep the local Jekyll preview on the page selected in the editor.",
+  "version": "0.1.0",
+  "publisher": "gmazzuca-local",
+  "private": true,
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "workspaceContains:bin/preview"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "alFolioFollowPreview.open",
+        "title": "Open Follow Preview",
+        "category": "al-folio"
+      }
+    ],
+    "configuration": {
+      "title": "al-folio Follow Preview",
+      "properties": {
+        "alFolioFollowPreview.baseUrl": {
+          "type": "string",
+          "default": "http://127.0.0.1:4000",
+          "description": "URL of the local Jekyll preview server."
+        }
+      }
+    }
+  }
+}
